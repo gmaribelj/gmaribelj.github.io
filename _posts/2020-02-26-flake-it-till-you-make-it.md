@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conozcamos más sobre mi Familia
+title: Conozcamos sobre mi Familia
 subtitle: Mi motivo de seguir adelante
 cover-img: /assets/img/path.png
 thumbnail-img: /assets/img/thumb.png
