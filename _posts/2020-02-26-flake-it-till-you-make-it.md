@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [amor, cariño]
 ---
-Mi familia esta conformada por mi Padre, Madre, Hermano, mis dos Hermanas ,yo y mi mascota, Son unos gran seres humanos que amo, respeto y valoro con toda mi vida, vamos a conocer un poco de cada uno de ello.
+Mi familia esta conformada por mi Padre, Madre, Hermano, mis dos Hermanas ,yo y mi mascota, Son grandes seres humanos que amo, respeto y valoro con toda mi vida, vamos a conocer un poco de cada uno de ello.
 Tenemos a mis Padres 
 
 Mi Padre se llama Luis Eduardo Jácome Silva, tiene 59 años de edad , Mi padre trabaja en la Pintura, es un hombre muy trabajador y super dedicado en lo que el se propone, mi padre es la persona a la que yo más admiro pues con su gran dedicación a logrado sacarnos adelante a toda mi familia.Mi madre se llama Carmen Amelia Jaña Acurio , tiene 60 años de edad, es una mujer muy luchadora que se preocupa por que día a día nos mantengamos más unidos. 
