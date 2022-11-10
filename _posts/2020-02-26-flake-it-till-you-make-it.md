@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Conozcamos más sobre mi Familia
+subtitle: Mi motivo de seguir adelante
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [amor, cariño]
 ---
 Mi familia esta conformada por mi Padre, Madre, Hermano, mis dos Hermanas ,yo y mi mascota, Son unos gran seres humanos que amo, respeto y valoro con toda mi vida, vamos a conocer un poco de cada uno de ello.
 Tenemos a mis Padres 
