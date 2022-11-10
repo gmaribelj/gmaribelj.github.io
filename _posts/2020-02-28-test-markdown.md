@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Mis Anécdotas
-subtitle: Momentos que jamas olvidare
+subtitle: Momentos que jamas olvidaré
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [risas,miedos]
 comments: true
 ---
 
