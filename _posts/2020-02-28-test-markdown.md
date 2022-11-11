@@ -21,7 +21,7 @@ Aquí les contaré mi viaje inesperado desde Latacunga a esta ciudad.
 **Mi segunda anécdota**
 Mi segunda anecdota se trata de la Bievenida que me realizaron cuando empecé la Pre Militar.
 
-![Crepe](https://youtu.be/ejrzRKlSwUQ)
+![Crepe](https://drive.google.com/file/d/1ZGoqLFuGFqMFqHHkfmspoLMdpKIZVxMp/view?usp=sharing)
 
 
 
