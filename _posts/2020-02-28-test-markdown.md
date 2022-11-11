@@ -21,7 +21,7 @@ Un día como cualquiera estabamos reunidos almorzando en familia, cuando en las 
 **Mi segunda anécdota**
 Mi segunda anecdota se trata de la Bievenida que me realizaron cuando empecé la Pre Militar.
 
-![Crepe](https://drive.google.com/file/d/1ZGoqLFuGFqMFqHHkfmspoLMdpKIZVxMp/view?usp=sharing)
+![Crepe](https://pbs.twimg.com/media/CydSpWlWIAALH-p.jpg)
 
 
 
