@@ -21,7 +21,7 @@ Aquí les contaré mi viaje inesperado desde Latacunga a esta ciudad.
 **Mi segunda anécdota**
 Mi segunda anecdota se trata de la Bievenida que me realizaron cuando empecé la Pre Militar.
 
-![Crepe](https://www.fae.mil.ec/wp-content/uploads/2021/03/WhatsApp-Image-2021-03-10-at-5.26.49-PM-3-350x300.jpeg)
+![Crepe](https://youtu.be/ejrzRKlSwUQ)
 
 
 
@@ -42,8 +42,3 @@ Here's a useless table:
 | Seven | Eight | Six |
 | Two | Three | One |
 
-
-### Error
-
-{: .box-anecdota3}
-**Anecdota3:** Mi tercera anecdota3
