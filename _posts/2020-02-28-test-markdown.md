@@ -24,6 +24,7 @@ Un día como cualquiera estabamos reunidos almorzando en familia, cuando en las 
 Trata de la Bievenida que me realizaron cuando empecé la Pre Militar.
 
 ![Crepe](https://pbs.twimg.com/media/CydSpWlWIAALH-p.jpg)
+
 En el colegio en donde yo estudiaba en la ciudad de Latacunga se llamaba Unidad Educativa Fae N°5 , Ahí no se realizaba campo de acción como se regia a un colegio militar  existía la Pre Militar en donde se comenzaba desde el primer año de bachillerato en la cual siempre les otorgaban una bienvenida a los de primero los de tercero de bachillerato,a mi parecer yo pensaba que se trataba de una ceremonía o una fiesta que nos organizaban por darnos la bienvenida, cuando no era así, se trataba que nos tenían que desmotivar y hacernos sufrir , poniendonos varias pruebas sin conocer o tener la experiencia como tirarnos gas lagrimógeno, nos obligaron a tirarnos de puentes, nos obligaron a pasar por rios en donde si no cumplias te pegaban en ese momento , fue muy duro, había compañeras que lloraban de la deseperación , pero con el paso de tiempo se fue ganando experiencia y lo que parecía horrible a la final nos termino gustando.
 <br>Aprendizaje: Nunca rendirte por más difícil que sea la situación
 
