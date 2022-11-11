@@ -1,16 +1,32 @@
 ---
 layout: page
 title: Sobre mi
-subtitle: Conozcamos las diferentes cualidades que me caracterizan 
+subtitle: Conozcamos los diferentes logros y cualidades que me caracterizan 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Logros
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Escolta de la Ciudad de Riobamba
+Beca Académica en cada semestre por méritos académicos (Unach)
 
-What else do you need?
+### Aficiones
+Jugar Futbol
+Leer
+Viajar
+Bailar
+### Habilidades
+Manejo de Herramientas Digitales
+Resolución de problemas
+### Lenguaje
+Español
 
-### My story
+### Aptitudes
+Entrega y Dedicación
+Organizada y Responsable
+Creatividad
+Trabajo en equipo
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Gustos
+Me gusta mucho ver películas de [terror] (https://www.google.com/search?q=peliculas+de+teror&rlz=1C1GCEA_enEC1012EC1012&oq=peliculas+de+teror&aqs=chrome..69i57j0i10i433i512l3j0i10i512l6.4903j0j7&sourceid=chrome&ie=UTF-8) a pesar de que me da miedo me genera intriga saber que pasara luego.
+
+En cuanto a la comida me gusta mucho comer arroz con camarones apanados es mi comida favorita 
