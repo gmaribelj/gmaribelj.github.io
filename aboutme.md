@@ -12,12 +12,14 @@ subtitle: Conozcamos los diferentes logros y cualidades que me caracterizan
 <li>Beca Académica en cada semestre por méritos académicos(Unach).
 
 ### Aficiones
+<ul>
 <li>Jugar Futbol 
 <li>Leer
 <li>Viajar
 <li>Bailar
 
 ### Habilidades
+<ul>
 <li>Manejo de Herramientas Digitales
 <li>Resolución de problemas
 
@@ -25,12 +27,14 @@ subtitle: Conozcamos los diferentes logros y cualidades que me caracterizan
 Español
 
 ### Aptitudes
+<ul>
 <li>Entrega y Dedicación
 <li>Organizada y Responsable
 <li>Creatividad
 <li>Trabajo en equipo
 
 ### Valores principales que me caracterizan 
+<ul>
 <li>Respeto
 <li>Honestidad
 <li>Amabilidad
@@ -38,11 +42,12 @@ Español
 
 
 ### Gustos
-Me gusta mucho ver películas de terror a pesar de que me da miedo me genera intriga saber que pasara luego.
-<br>En cuanto a la comida me gusta mucho comer arroz con camarones apanados
-<br> Mis colores favoritos son el fuccia y el rojo
-<br>Mi animal favorito son los perritos
-<br>Mi dulce favorito son las gomitas
+<ul>
+<li>Me gusta mucho ver películas de terror a pesar de que me da miedo me genera intriga saber que pasara luego.
+<li>En cuanto a la comida me gusta mucho comer arroz con camarones apanados
+<li> Mis colores favoritos son el fuccia y el rojo
+<li>Mi animal favorito son los perritos
+<li>Mi dulce favorito son las gomitas
 
 
 
