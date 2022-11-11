@@ -8,9 +8,13 @@ tags: [risas,miedos]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Se trata de tres anécdotas que an marcado mi vida por completo en donde me an dejado un aprendizaje.
 
-**Here is some bold text**
+
+**Mi primera anécdota**
+Aquí les contaré del viaje inesperado desde Latacunga a esta ciudad.
+
+![Crepe](https://www.riobamba.co/wp-content/uploads/2020/03/riobamba.jpg)
 
 ## Here is a secondary heading
 
@@ -24,9 +28,8 @@ Here's a useless table:
 | Two | Three | One |
 
 
-How about a yummy crepe?
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+
 
 It can also be centered!
 
