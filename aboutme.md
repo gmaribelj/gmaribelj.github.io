@@ -7,32 +7,34 @@ subtitle: Conozcamos los diferentes logros y cualidades que me caracterizan
 ### Logros
 <ul>
 <li> Adquisición de medalla por obtener el Primer Lugar en Atletismo representando a la Unidad Educativa Fae N°5 en Latacunga.</li>
-<br>Banderín de la Pre Militar por mejor comportamiento (Latacunga).
-<br>Escolta de la Ciudad de Riobamb.
-<br>Beca Académica en cada semestre por méritos académicos(Unach).
-</u>
+<li>Banderín de la Pre Militar por mejor comportamiento (Latacunga).
+<li>Escolta de la Ciudad de Riobamb.
+<li>Beca Académica en cada semestre por méritos académicos(Unach).
+
 ### Aficiones
-Jugar Futbol <br>
-Leer<br>
-Viajar<br>
-Bailar<br>
+<li>Jugar Futbol 
+<li>Leer
+<li>Viajar
+<li>Bailar
+
 ### Habilidades
-Manejo de Herramientas Digitales
-<br>Resolución de problemas
+<li>Manejo de Herramientas Digitales
+<li>Resolución de problemas
+
 ### Lenguaje
 Español
 
 ### Aptitudes
-Entrega y Dedicación
-<br>Organizada y Responsable
-<br>Creatividad
-<br>Trabajo en equipo
+<li>Entrega y Dedicación
+<li>Organizada y Responsable
+<li>Creatividad
+<li>Trabajo en equipo
 
 ### Valores principales que me caracterizan 
-Respeto
-<br>Honestidad
-<br>Amabilidad
-<br>Puntualidad
+<li>Respeto
+<li>Honestidad
+<li>Amabilidad
+<li>Puntualidad
 
 
 ### Gustos
