@@ -53,7 +53,5 @@ Español
 <li> Mis colores favoritos son el fuccia y el rojo</li>
 <li>Mi animal favorito son los perritos</li>
 <li>Mi dulce favorito son las gomitas</li>
-
-
-
 </ul>
+
