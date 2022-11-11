@@ -12,9 +12,24 @@ Se trata de tres anécdotas que an marcado mi vida por completo en donde me an d
 
 
 **Mi primera anécdota**
-Aquí les contaré del viaje inesperado desde Latacunga a esta ciudad.
+Aquí les contaré mi viaje inesperado desde Latacunga a esta ciudad.
 
 ![Crepe](https://www.riobamba.co/wp-content/uploads/2020/03/riobamba.jpg)
+
+
+
+**Mi segunda anécdota**
+Mi segunda anecdota se trata de la Bievenida que me realizaron cuando empecé la Pre Militar.
+
+![Crepe](https://www.fae.mil.ec/wp-content/uploads/2021/03/WhatsApp-Image-2021-03-10-at-5.26.49-PM-3-350x300.jpeg)
+
+
+
+**Mi tercera anécdota**
+Aquí les contaré mi viaje inesperado desde Latacunga a esta ciudad.
+
+![Crepe](https://www.riobamba.co/wp-content/uploads/2020/03/riobamba.jpg)
+
 
 ## Here is a secondary heading
 
