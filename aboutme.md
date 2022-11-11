@@ -5,10 +5,10 @@ subtitle: Conozcamos los diferentes logros y cualidades que me caracterizan
 ---
 
 ### Logros
-Primer Lugar en Atletismo representando a la Unidad Educativa Fae N°5 en Latacunga
-Banderín de la Pre Militar por mejor comportamiento (Latacunga)
-Escolta de la Ciudad de Riobamba
-Beca Académica en cada semestre por méritos académicos (Unach)
+<br> Adquisición de medalla por obtener el Primer Lugar en Atletismo representando a la Unidad Educativa Fae N°5 en Latacunga.
+<br>Banderín de la Pre Militar por mejor comportamiento (Latacunga).
+<br>Escolta de la Ciudad de Riobamba
+<br>Beca Académica en cada semestre por méritos académicos (Unach)
 
 ### Aficiones
 Jugar Futbol <br>
@@ -17,17 +17,30 @@ Viajar<br>
 Bailar<br>
 ### Habilidades
 Manejo de Herramientas Digitales
-Resolución de problemas
+<br>Resolución de problemas
 ### Lenguaje
 Español
 
 ### Aptitudes
 Entrega y Dedicación
-Organizada y Responsable
-Creatividad
-Trabajo en equipo
+<br>Organizada y Responsable
+<br>Creatividad
+<br>Trabajo en equipo
+
+### Valores principales que me caracterizan 
+Respeto
+<br>Honestidad
+<br>Amabilidad
+<br>Puntualidad
+
 
 ### Gustos
 Me gusta mucho ver películas de terror a pesar de que me da miedo me genera intriga saber que pasara luego.
 
-En cuanto a la comida me gusta mucho comer arroz con camarones apanados es mi comida favorita 
+<br>En cuanto a la comida me gusta mucho comer arroz con camarones apanados
+<br> Mis colores favoritos son el fuccia y el rojo
+<br>Mi animal favorito son los perritos
+<br>Mi dulce favorito son las gomitas
+
+
+
