@@ -1,17 +1,18 @@
 ---
 layout: page
-title: Mis Amistades 
-subtitle: Momentos compartidos 
+title: Momentos Compartidos
+subtitle: Amistades
 ---
 
-### Educación Primaria
+### Mi mejor amiga
 Unidad Educatativa Sagrado Corazon de Jesús (Latacunga)
 
 <img src="assets/img/fotos.jpg"> 
 
 
 
-### Educación Secundaria
+
+### Mis compañeros
 Unidad Educativa Particular Fae N°5 (Latacunga)
 
 
@@ -19,5 +20,9 @@ Unidad Educativa Amelia Gallegos Díaz (Riobamba)
 
 
 
-### Educación Universitaria
+### Prácticas
 Universidad Nacional de Chimborazo (Riobamba)
+
+
+
+### Viajes
