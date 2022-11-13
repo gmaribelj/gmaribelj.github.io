@@ -2,13 +2,14 @@
 layout: page
 title: Mis Estudios 
 subtitle: Mi vida estudiantil   
+cover-img: /assets/img/fotos.jpg
 ---
 
 ### Educación Primaria
+
 Unidad Educativa Sagrado Corazon de Jesús (Latacunga)
 
-<img src="fotos.jpg">
-<IMG SRC="fotos.jpg">
+
 
 
 
