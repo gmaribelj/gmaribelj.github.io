@@ -20,11 +20,10 @@ author: Génesis Jácome
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Sobre Mi: "aboutme"
+  Fotografías: "fotografias"
+  Amistades: "Amistades"
+  CV: "Currículo Vitae"
 
 ################
 # --- Logo --- #
