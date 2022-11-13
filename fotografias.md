@@ -4,8 +4,12 @@ title: Mis Fotrografías
 subtitle: Momentos Importantes  
 ---
 
+### Mis Fotos
+thumbnail-img: /assets/img/fotos.jpg
+
+
 ### Universidad
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/fotos.jpg
 
 ### Paseos
 <ul>
