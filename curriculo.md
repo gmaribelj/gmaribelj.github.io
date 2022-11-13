@@ -10,9 +10,12 @@ title: Curriculum Vitae
   <b>ELABORADO POR: </b>
       Génesis Maribel Jácome Jaña
         
-        <br>Estudiante de la Universidad Nacional de Chimborazo de Pedagogía de la Informática<br>
-        Dirección: Barrio Las Palmas Calles: Esteban Marañon y Pedro Vasquez<br>
-        Celular:0984191758<br>
+       Estudiante de la Universidad Nacional de Chimborazo de Pedagogía de la Informática
+       
+        Dirección: Barrio Las Palmas Calles: Esteban Marañon y Pedro Vasquez
+
+        Celular:0984191758
+
         Correo:maricitajacome.17@gmail.com
  
 
