@@ -11,7 +11,6 @@ Unidad Educativa Sagrado Corazon de Jesús (Latacunga)
 
 
 
-
 ### Educación Secundaria
 Unidad Educativa Particular Fae N°5 (Latacunga)
 
