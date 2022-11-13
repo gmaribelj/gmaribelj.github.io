@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 ## Hoja de vida
 
-
+<A HREF="https://drive.google.com/file/d/1fCBg5KtzTJwOjZNohouF1UmyIcUFfQUW/view?usp=sharing"> Esta es una pagina en otro computador </A>
 
 
   <b>ELABORADO POR: </b>
