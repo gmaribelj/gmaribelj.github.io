@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Mis Fotrografías 
-subtitle: Momentos Importantes  
+title: Mis Estudios 
+subtitle: Mi vida estudiantil   
 ---
+
 ### Educación Primaria
 Unidad Educatativa Sagrado Corazon de Jesús (Latacunga)
 cover-img: /assets/img/fotos.jpg
@@ -20,3 +21,6 @@ Unidad Educativa Amelia Gallegos Díaz (Riobamba)
 
 ### Educación Universitaria
 Universidad Nacional de Chimborazo (Riobamba)
+
+
+
