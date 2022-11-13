@@ -2,7 +2,6 @@
 layout: page
 title: Mis Estudios 
 subtitle: Mi vida estudiantil   
-cover-img: /assets/img/fotos.jpg
 ---
 
 ### Educación Primaria
