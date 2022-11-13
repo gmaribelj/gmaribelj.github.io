@@ -20,7 +20,7 @@ subtitle: Momentos Importantes
 <li>Bailar</li>
 </ul>
 
-### Mis mascotas
+### Mi mascota
 <ul>
 <li>Manejo de Herramientas Digitales</li>
 <li>Resolución de problemas</li>
