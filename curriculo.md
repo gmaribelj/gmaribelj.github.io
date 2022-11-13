@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Currículo Vitae
+title: Curriculum Vitae
 ---
 
 ### Educación Primaria
@@ -10,17 +10,14 @@ cover-img: /assets/img/fotos.jpg
 
 
 
-
-### Educación Secundaria
-Unidad Educativa Particular Fae N°5 (Latacunga)
-
-
-Unidad Educativa Amelia Gallegos Díaz (Riobamba)
-
-
-
-### Educación Universitaria
-Universidad Nacional de Chimborazo (Riobamba)
+ <h3> <b>ELABORADO POR: </b></h3>
+        <h4> Génesis Maribel Jácome Jaña</h4>
+        <img src="../SITIO WEB_JÁCOME GÉNESIS/Recursos/genesis.png">
+        <p> Estudiante de la Universidad Nacional de Chimborazo de Pedagogía de la Informática</p>
+        <pre><b>Dirección:</b> Barrio Las Palmas Calles: Esteban Marañon y Pedro Vasquez
+        <b>Celular:</b> 0984191758
+        <b>Correo:</b> maricitajacome.17@gmail.com </pre>
+    </pre>
 
 
 
