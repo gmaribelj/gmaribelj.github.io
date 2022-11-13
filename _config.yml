@@ -21,9 +21,9 @@ author: Génesis Jácome
 
 navbar-links:
   Sobre Mi: "aboutme"
-  Fotografías: "fotografias"
-  Amistades: "Amistades"
-  CV: "Currículo Vitae"
+  Estudios: "fotografias"
+  Amistades: "amistades"
+  CV: "curriculo"
 
 ################
 # --- Logo --- #
