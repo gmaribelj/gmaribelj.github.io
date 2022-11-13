@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Mis Fotografías 
-subtitle: Momentos Importantes  
+title: Mis Estudios 
+subtitle: Mi vida estudiantil   
 ---
 
 ### Mis Fotos
