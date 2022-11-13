@@ -5,7 +5,9 @@ subtitle: Momentos Importantes
 ---
 ### Educación Primaria
 Unidad Educatativa Sagrado Corazon de Jesús (Latacunga)
+cover-img: /assets/img/fotos.jpg
 <img src="assets/img/fotos.jpg"> 
+
 
 
 ### Educación Secundaria
