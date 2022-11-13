@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mis Fotrografías 
+title: Mis Fotografías 
 subtitle: Momentos Importantes  
 ---
 
