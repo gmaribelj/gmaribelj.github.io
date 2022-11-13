@@ -3,15 +3,14 @@ layout: page
 title: Curriculum Vitae
 ---
 
-## Hoja de vida
 
-<A HREF="https://drive.google.com/file/d/1fCBg5KtzTJwOjZNohouF1UmyIcUFfQUW/view?usp=sharing"> Esta es una pagina en otro computador </A>
+<A HREF="https://drive.google.com/file/d/1fCBg5KtzTJwOjZNohouF1UmyIcUFfQUW/view?usp=sharing"> Hoja de Vida </A>
 
 
   <b>ELABORADO POR: </b>
       Génesis Maribel Jácome Jaña
-        <img src="assets/img/fotos.jpg">
-        Estudiante de la Universidad Nacional de Chimborazo de Pedagogía de la Informática<br>
+        
+        <br>Estudiante de la Universidad Nacional de Chimborazo de Pedagogía de la Informática<br>
         Dirección: Barrio Las Palmas Calles: Esteban Marañon y Pedro Vasquez<br>
         Celular:0984191758<br>
         Correo:maricitajacome.17@gmail.com 
