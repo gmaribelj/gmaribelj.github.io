@@ -3,27 +3,18 @@ layout: page
 title: Mis Fotrografías 
 subtitle: Momentos Importantes  
 ---
+### Educación Primaria
+Unidad Educatativa Sagrado Corazon de Jesús (Latacunga)
+<img src="assets/img/fotos.jpg"> 
 
-### Mis Fotos
-thumbnail-img: /assets/img/fotos.jpg
+
+### Educación Secundaria
+Unidad Educativa Particular Fae N°5 (Latacunga)
 
 
-### Universidad
-thumbnail-img: /assets/img/fotos.jpg
-
-### Paseos
-<ul>
-<li>Jugar Futbol </li>
-<li>Leer</li>
-<li>Viajar</li>
-<li>Bailar</li>
-</ul>
-
-### Mi mascota
-<ul>
-<li>Manejo de Herramientas Digitales</li>
-<li>Resolución de problemas</li>
-</ul>
+Unidad Educativa Amelia Gallegos Díaz (Riobamba)
 
 
 
+### Educación Universitaria
+Universidad Nacional de Chimborazo (Riobamba)
