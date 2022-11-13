@@ -3,10 +3,8 @@ layout: page
 title: Curriculum Vitae
 ---
 
-### Educación Primaria
-Unidad Educativa Sagrado Corazon de Jesús (Latacunga)
-cover-img: /assets/img/fotos.jpg
-<img src="assets/img/fotos.jpg"> 
+## Hoja de vida
+<li> <a href="https://drive.google.com/file/d/1fCBg5KtzTJwOjZNohouF1UmyIcUFfQUW/view?usp=sharing"target="_blank" >Hoja de Vida</a></li>
 
 
 
