@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Sobre mi
-subtitle: Conozcamos los diferentes logros y cualidades que me caracterizan 
+title: Mis Fotrografías 
+subtitle: Momentos Importantes  
 ---
-
+![Crepe](https://drive.google.com/file/d/1I6vL02QduKjW0cRoGGSei33PjoA3pQEB/view?usp=sharing)
 ### Logros
 <ul>
 <li> Adquisición de medalla por obtener el Primer Lugar en Atletismo representando a la Unidad Educativa Fae N°5 en Latacunga.</li>
