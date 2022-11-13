@@ -5,7 +5,7 @@ subtitle: Momentos Importantes
 ---
 
 ### Mis Fotos
-<img src="../assets/img/fotos.jpg"> 
+<img src="assets/img/fotos.jpg"> 
 
 
 ### Universidad
