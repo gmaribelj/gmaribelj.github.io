@@ -20,7 +20,7 @@ author: Génesis Jácome
 ###############################################
 
 navbar-links:
-  SobreMi: "Sobre Mi"
+  About Me:: "Sobre Mi"
   Fotografías: "Fotografías"
   Amistades: "Amistades"
   CV: "Currículo Vitae"
