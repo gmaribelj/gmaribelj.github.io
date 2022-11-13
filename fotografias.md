@@ -8,6 +8,7 @@ subtitle: Mi vida estudiantil
 Unidad Educativa Sagrado Corazon de Jesús (Latacunga)
 cover-img: /assets/img/fotos.jpg
 <img src="assets/img/fotos.jpg"> 
+<img src="{{ 'assets/img/fotos.jpg' | relative_url }}" alt="Not found" />
 
 
 
