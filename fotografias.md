@@ -15,6 +15,7 @@ Unidad Educativa Sagrado Corazon de Jesús (Latacunga)<br>
 Unidad Educativa Particular Fae N°5 (Latacunga)
 
 
+
 Unidad Educativa Amelia Gallegos Díaz (Riobamba)
 
 
