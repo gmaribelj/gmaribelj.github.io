@@ -6,8 +6,8 @@ subtitle: Mi vida estudiantil
 
 ### Educación Primaria
 
-Unidad Educativa Sagrado Corazon de Jesús (Latacunga)
- ![Crepe](https://i.postimg.cc/Y2NCdK9J/sagrado.png) 
+Unidad Educativa Sagrado Corazon de Jesús (Latacunga)<br>
+ ![Crepe](https://i.postimg.cc/Y2NCdK9J/sagrado.png) </br>
 
 
 
