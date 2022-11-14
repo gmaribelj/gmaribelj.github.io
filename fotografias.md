@@ -24,7 +24,7 @@ Unidad Educativa Amelia Gallegos Díaz (Riobamba)<br>
 
 
 ### Educación Universitaria
-Universidad Nacional de Chimborazo (Riobamba)
+Universidad Nacional de Chimborazo (Riobamba)<br>
  ![Crepe](https://i.postimg.cc/c4wY05FW/unach.png) 
 
 
