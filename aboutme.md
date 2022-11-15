@@ -3,6 +3,8 @@ layout: page
 title: Sobre mi
 subtitle: Conozcamos los diferentes logros y cualidades que me caracterizan 
 ---
+<link rel="stylesheet" href="assets/css/cssindex.css">
+<p>
 
 ### Logros
 <ul>
@@ -55,3 +57,4 @@ Español
 <li>Mi dulce favorito son las gomitas</li>
 </ul>
 
+</p>
