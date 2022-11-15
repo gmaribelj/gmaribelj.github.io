@@ -2,8 +2,6 @@
 layout: post
 title: Mis Anécdotas
 subtitle: Momentos que jamas olvidaré
-
-gh-badge: [star, fork, follow]
 tags: [risas,miedos]
 comments: true
 ---
