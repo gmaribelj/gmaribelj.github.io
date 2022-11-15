@@ -1,6 +1,6 @@
 <!-- TODO this file has become a mess, refactor it -->
 
-{% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+
 
 {% if page.cover-img or page.title %}
 
@@ -38,9 +38,7 @@
           {% endif %}
 
        
-            {% endif %}
-            {% if page.readtime %}
-              {% include readtime.html %}
+            
             {% endif %}
           {% endif %}
         </div>
