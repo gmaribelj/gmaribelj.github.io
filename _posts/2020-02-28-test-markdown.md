@@ -3,7 +3,6 @@ layout: post
 title: Mis Anécdotas
 subtitle: Momentos que jamas olvidaré
 tags: [risas,miedos]
-comments: true
 ---
 
 Se trata de tres anécdotas que an marcado mi vida por completo en donde me an dejado un aprendizaje.
